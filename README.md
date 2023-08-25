@@ -7,6 +7,12 @@ NodeCG template using [Solid](https://solidjs.com) and [vite-nodecg-plugin](http
 Clone this repository into your NodeCG instance's bundles folder. Adjust package.json according to [NodeCG's package.json Manifest](https://www.nodecg.dev/docs/manifest).
 
 ```bash
+git clone https://github.com/WafuRuns/solid-nodecg-template
+```
+
+## Available scripts
+
+```bash
 yarn       # Installs Node packages
 yarn dev   # Starts the bundle in dev mode with HMR
 yarn build # Builds the bundle for production
